@@ -1,2 +1,2 @@
-## Following along with the tutorials over at
+## Following along with the tutorials over at:
 https://gobyexample.com/
